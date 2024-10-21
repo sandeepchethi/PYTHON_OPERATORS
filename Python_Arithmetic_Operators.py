@@ -1,5 +1,5 @@
 #21/10/2024
-#calcilate simple interest
+#calculate simple interest
 def simple_interest():
     principal=int(input("enter the principal amount:"))
     time=float(input("enter the time in years"))
